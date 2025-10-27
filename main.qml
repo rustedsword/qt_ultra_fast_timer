@@ -28,7 +28,7 @@ XrView {
                     id: t
                     font.pointSize: 12
                     color: "white"
-                    text: "FUck"
+                    text: "nya"
                 }
             }
         }
